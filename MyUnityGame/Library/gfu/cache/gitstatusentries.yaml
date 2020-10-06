@@ -1,0 +1,660 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-10-06T23:16:20.130+02:00
+  initializedAtString: 2020-10-06T23:02:42.831+02:00
+  entries:
+  - path: MyUnityGame\Assets\Plugins.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ArtifactDB
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\Artifacts\07\07b412cea13612475ebe4bd1805d6db2
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\07\07b412cea13612475ebe4bd1805d6db2
+    projectPath: Library\Artifacts\07\07b412cea13612475ebe4bd1805d6db2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\2d\2d65adbe26f387443c7743717bc3ccb1
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\2d\2d65adbe26f387443c7743717bc3ccb1
+    projectPath: Library\Artifacts\2d\2d65adbe26f387443c7743717bc3ccb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\48\48d53a85bd1a7f97875afdbe849d0136
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\48\48d53a85bd1a7f97875afdbe849d0136
+    projectPath: Library\Artifacts\48\48d53a85bd1a7f97875afdbe849d0136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\4a\4a00462f504fbb6c4d9065b97eb486e1
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\4a\4a00462f504fbb6c4d9065b97eb486e1
+    projectPath: Library\Artifacts\4a\4a00462f504fbb6c4d9065b97eb486e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\4c\4c27a1d842dbf818523f182ecf216281
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\4c\4c27a1d842dbf818523f182ecf216281
+    projectPath: Library\Artifacts\4c\4c27a1d842dbf818523f182ecf216281
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\4d\4d58abfa310f6e37de31963c8e6a3931
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\4d\4d58abfa310f6e37de31963c8e6a3931
+    projectPath: Library\Artifacts\4d\4d58abfa310f6e37de31963c8e6a3931
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\6a\6af208f794ec8b6fa8d91bd8ed4f9f24
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\6a\6af208f794ec8b6fa8d91bd8ed4f9f24
+    projectPath: Library\Artifacts\6a\6af208f794ec8b6fa8d91bd8ed4f9f24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\6b\6b1a548879adaca213c219158ca96822
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\6b\6b1a548879adaca213c219158ca96822
+    projectPath: Library\Artifacts\6b\6b1a548879adaca213c219158ca96822
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\75\75b18cf00386ddfbc5cd0767fbb58639
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\75\75b18cf00386ddfbc5cd0767fbb58639
+    projectPath: Library\Artifacts\75\75b18cf00386ddfbc5cd0767fbb58639
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\7e\7ebd9e811c97cde3fff652da8853bbbd
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\7e\7ebd9e811c97cde3fff652da8853bbbd
+    projectPath: Library\Artifacts\7e\7ebd9e811c97cde3fff652da8853bbbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\90\909479866185c5ced558b65d0fb15831
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\90\909479866185c5ced558b65d0fb15831
+    projectPath: Library\Artifacts\90\909479866185c5ced558b65d0fb15831
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\95\95aa51f5c9bf4b47d1b8c497ca8e4563
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\95\95aa51f5c9bf4b47d1b8c497ca8e4563
+    projectPath: Library\Artifacts\95\95aa51f5c9bf4b47d1b8c497ca8e4563
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\a6\a6e8bdad659e4b145d4a7be6e2dbfb44
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\a6\a6e8bdad659e4b145d4a7be6e2dbfb44
+    projectPath: Library\Artifacts\a6\a6e8bdad659e4b145d4a7be6e2dbfb44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\ae\ae1351f672006b10cc3f1df50ab119c2
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\ae\ae1351f672006b10cc3f1df50ab119c2
+    projectPath: Library\Artifacts\ae\ae1351f672006b10cc3f1df50ab119c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\c4\c49bac2ba81bd12c5f34a787d9ec52e3
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\c4\c49bac2ba81bd12c5f34a787d9ec52e3
+    projectPath: Library\Artifacts\c4\c49bac2ba81bd12c5f34a787d9ec52e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\cf\cf9ef8bfc6d4dc90571faa398fd09843
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\cf\cf9ef8bfc6d4dc90571faa398fd09843
+    projectPath: Library\Artifacts\cf\cf9ef8bfc6d4dc90571faa398fd09843
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\dc\dcf3af2f37bf4572ee229279394f90e8
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\dc\dcf3af2f37bf4572ee229279394f90e8
+    projectPath: Library\Artifacts\dc\dcf3af2f37bf4572ee229279394f90e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\e2\e260c35e21debe8b7ee04cd6a454aae8
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\e2\e260c35e21debe8b7ee04cd6a454aae8
+    projectPath: Library\Artifacts\e2\e260c35e21debe8b7ee04cd6a454aae8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\e2\e28cad9cf48d3ff966288f15732ff6d1
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\e2\e28cad9cf48d3ff966288f15732ff6d1
+    projectPath: Library\Artifacts\e2\e28cad9cf48d3ff966288f15732ff6d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\ed\ed488781867a85f5e18494f72b9ae503
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\ed\ed488781867a85f5e18494f72b9ae503
+    projectPath: Library\Artifacts\ed\ed488781867a85f5e18494f72b9ae503
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\f4\f40f900fc40bf98cec91ee9247f94ee0
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\f4\f40f900fc40bf98cec91ee9247f94ee0
+    projectPath: Library\Artifacts\f4\f40f900fc40bf98cec91ee9247f94ee0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\Artifacts\ff\ff7f572f61c48b72000ebb488034a2b5
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\Artifacts\ff\ff7f572f61c48b72000ebb488034a2b5
+    projectPath: Library\Artifacts\ff\ff7f572f61c48b72000ebb488034a2b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\EditorInstance.json
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\PackageManager\ProjectCache.bin
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\PackageManager\ProjectCache.bin
+    projectPath: Library\PackageManager\ProjectCache.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\SourceAssetDB
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\StateCache\MainStageHierarchy\35\353fa540657f873f489535242db46ce2.json
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\StateCache\MainStageHierarchy\35\353fa540657f873f489535242db46ce2.json
+    projectPath: Library\StateCache\MainStageHierarchy\35\353fa540657f873f489535242db46ce2.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MyUnityGame\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\ProjectSettings\TimelineSettings.asset
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\ProjectSettings\TimelineSettings.asset
+    projectPath: ProjectSettings\TimelineSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MyUnityGame\Temp\UnityLockfile
+    fullPath: C:\Users\sirok\Documents\GitHub\MyUnityGame\MyUnityGame\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
